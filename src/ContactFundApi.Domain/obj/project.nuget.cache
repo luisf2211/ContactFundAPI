@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "svbdDLGzFRc=",
+  "success": true,
+  "projectFilePath": "/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/ContactFundApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/luisreyesbaez/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

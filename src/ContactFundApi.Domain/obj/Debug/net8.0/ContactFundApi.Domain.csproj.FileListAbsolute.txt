@@ -1,0 +1,11 @@
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/bin/Debug/net8.0/ContactFundApi.Domain.deps.json
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/bin/Debug/net8.0/ContactFundApi.Domain.dll
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/bin/Debug/net8.0/ContactFundApi.Domain.pdb
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.AssemblyInfoInputs.cache
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.AssemblyInfo.cs
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.csproj.CoreCompileInputs.cache
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.dll
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/refint/ContactFundApi.Domain.dll
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ContactFundApi.Domain.pdb
+/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Domain/obj/Debug/net8.0/ref/ContactFundApi.Domain.dll

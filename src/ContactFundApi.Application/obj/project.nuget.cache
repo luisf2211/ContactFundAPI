@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVfGtHv8CO4=",
+  "success": true,
+  "projectFilePath": "/Users/luisreyesbaez/Documents/investorflow/src/ContactFundApi.Application/ContactFundApi.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/luisreyesbaez/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.1/fluentvalidation.dependencyinjectionextensions.11.8.1.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/luisreyesbaez/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
